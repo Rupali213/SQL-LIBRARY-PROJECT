@@ -1,5 +1,6 @@
 # Library Management System using SQL Project 
-![ERD]https://github.com/Rupali213/SQL-LIBRARY-PROJECT/blob/main/library.jpg
+![ERD](https://github.com/Rupali213/SQL-LIBRARY-PROJECT/blob/main/library.jpg?raw=true)
+
 
 ## Project Overview
 
